@@ -5,7 +5,7 @@ from pathlib import Path
 # Define a list of FAQs and their responses
 faqs = {
     "What is your name?": "I am an adaptive chatbot.",
-    "How can I help you?": "I can answer your questions based on your previous interactions.",
+    "How can you help me?": "I can answer your questions based on your previous interactions.",
     "What is AI?": "AI stands for Artificial Intelligence."
 }
 
